@@ -3,7 +3,7 @@
 Le challenge, c'est de créer une application Kotlin qui fait du web scraping et qui récupère les
 articles de blog sur (https://www.letecode.com/) et les sauvegarder dans un fichier JSON.
 Lors de son lancement, l'application affiche un menu à l'utilisateur.
-Le menu contient 3 options :
+### Le menu contient 3 options :
 1. Ajouter des articles :
    - Contraintes :
      * Les donnes précédemment enregistrées ne doivent pas être perdues 
